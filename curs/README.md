@@ -1,3 +1,7 @@
-## Descriere
+## Reguli pentru echipa de teme (un exemplu) 
 
-Aici gasiti slide-urile cursurilor pentru anul universitar 2020-2021
+Reguli legate de modul de folosire al repository-ului intern.
+
+## Alte resurse utile
+
+De adaugat link-uri catre resursele folosite de aceasta echipa.
